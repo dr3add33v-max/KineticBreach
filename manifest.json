@@ -1,0 +1,20 @@
+
+{
+  "game": {
+    "id": "kinetic-breach",
+    "title": "Kinetic Breach",
+    "version": "1.0.0",
+    "downloadUrl": "https://mega.nz/file/sdtHXbqI#h-yG8ouuPwA0BVfd-e-SzTMeG-GZMTwoZPjdpHJWeRg",
+    "sha256": "",
+    "exePath": "KineticBreach.exe",
+    "description": "Breach the impossible."
+  },
+  "news": [
+    {
+      "title": "Kinetic Breach Released!",
+      "message": "Kinetic Breach is now available to download!",
+      "date": "2026-11-14",
+      "tag": "RELEASE"
+    }
+  ]
+}
