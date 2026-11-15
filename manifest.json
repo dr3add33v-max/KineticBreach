@@ -1,20 +1,20 @@
 
 {
   "game": {
-    "id": "kinetic-breach",
-    "title": "Kinetic Breach",
+    "id": "black-line",
+    "title": "BlackLine",
     "version": "1.0.1",
     "downloadUrl": "https://mega.nz/file/sdtHXbqI#h-yG8ouuPwA0BVfd-e-SzTMeG-GZMTwoZPjdpHJWeRg",
     "sha256": "",
-    "exePath": "KineticBreach.exe",
+    "exePath": "BlackLine.exe",
     "description": "Breach the impossible."
   },
   "news": [
     {
-      "title": "Kinetic Breach Released!",
-      "message": "Kinetic Breach is now available to download!",
+      "title": "BlackLine BETA!",
+      "message": "BlackLine is now available to download!",
       "date": "2026-11-14",
-      "tag": "RELEASE"
+      "tag": "BETA"
     }
   ]
 }
